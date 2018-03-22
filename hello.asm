@@ -1,4 +1,5 @@
 ;nasm -fmacho64 HW3Question9.asm && ld HW3Question9.o && ./a.out
+;code written by Michael Simmons, Ethan Boone, and Thomas Ochsner
 
 global    start
 
